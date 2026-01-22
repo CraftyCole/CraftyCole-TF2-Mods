@@ -9,6 +9,8 @@ The autoexecs go in tf > cfg. If you use them all you can control which one is a
 
 conc is mainly just for Jump Academy medic but i barely use it or normal tf2 one, feel free to edit to your liking or just take specific parts from soldier or demo autoexecs
 
-outlinetrail
+the purple trail is outlinetrail, the other one is the tempus trail used in the tempus records and archive
+
+
 ![y4B0G4BV93_FU7TJljHM7w-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/ea0b50e4-db05-4d0f-b95d-a020dc2a2de0)
 
