@@ -1,7 +1,7 @@
 My TF2 Sticky Jump Oriented Files - Airpogo and such..
 
-Extract outline trail into tf > custom
-The purple isotope mod goes in - tf > custom > customstuff > particles
+Extract outline trail into tf > custom ---
+The purple isotope mod goes in - tf > custom > customstuff > particles ---
 Pulsating Glowing Stickies mod goes in custom
 
 
