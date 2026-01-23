@@ -1,10 +1,10 @@
 My TF2 Custom Folder and Autoexecs
 
 Press "+4 Releases" on the right to see;
-Outline Trail
-Tempus Trail
-Purple Isotope
-Glowing Stickies
+Outline Trail,
+Tempus Trail,
+Purple Isotope,
+Glowing Stickies,
 Autoexecs
 
 My HUD is "ahud"
